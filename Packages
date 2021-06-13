@@ -1,3 +1,18 @@
+Package: com.crts.xxx
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: xxx
+Installed-Size: 0
+Filename: ./debs/内透c破解版.deb
+Size: 413076
+MD5sum: fda83a3db31f1109b06354014717975d
+SHA1: 42cc68d799e8522d87f1ceaceb54b274def959b5
+SHA256: fda29c1e33b3e9fd2b48c55dc551bedb71b094232909aac010789bc141052143
+Section: System
+Tag: role::hacker
+Author: 内部
+Name: c破解群320228050
+
 Package: com.ios.wechat
 Version: 1.0.3
 Architecture: iphoneos-arm
