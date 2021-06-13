@@ -15,3 +15,17 @@ Depiction: https://repo.lenglengyu.top/packageInfo/LocalIAPStore.html
 Name: LocalIAPStore 内购破解
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/LocalIAPStoresileo
 
+Package: com.qbcx.net
+Version: 1.2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/Q绑查询 修复卡死 闪退.deb
+Size: 52558
+MD5sum: dab82a02ff0c0e53b925b5ca97e6b7a9
+SHA1: 122d7a3c931fd34f90ebaef33209e7f55c39b8c3
+SHA256: 845b3005bc98a28eed141a6ed801e6f6a935ee9aad125d3bfc3eec649e0c3710
+Section: System
+Priority: optional
+Author: 公众号：苹果树助手
+Name: Q绑查询（安装后打开QQ有说明）
+
